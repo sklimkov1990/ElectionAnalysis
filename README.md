@@ -43,4 +43,4 @@ The main challenge was folliwing the synthax of the script. I was able to make t
 
 ## Challenge Summary
 
-Dear comission, please, note this code can be used for any election, such as Presidential by state or Congress. All that would need to be done is some modification to the script. I hope you find that universal capability attractive and that it makes you interested in this code.
+Dear comission, please, note this code can be used for any election, such as Presidential by state or Congress. All that would need to be done is some modification to the script. As you can also see, this code will provide the board with all neccessary numbers and infomration needed for your work. I hope you find that universal capability attractive and that it makes you interested in this code.
