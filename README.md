@@ -39,6 +39,7 @@ with open(file_to_save, "w") as txt_file:
     print(election_results, end="")
 
     txt_file.write(election_results)
+The main challenge was folliwing the synthax of the script. I was able to make the code work by following the template and running it until it did.
 
 ## Challenge Summary
 
